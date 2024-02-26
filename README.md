@@ -1,2 +1,2 @@
 # Phys 133 at Cal Poly
-E&amp;M materials
+## E&amp;M materials
